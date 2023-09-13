@@ -1,4 +1,4 @@
-package dev.bushidolabs.composebasics
+package dev.bushidolabs.composebasics.components
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column

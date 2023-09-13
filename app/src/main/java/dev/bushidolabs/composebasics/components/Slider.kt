@@ -1,6 +1,5 @@
-package dev.bushidolabs.composebasics
+package dev.bushidolabs.composebasics.components
 
-import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.RangeSlider

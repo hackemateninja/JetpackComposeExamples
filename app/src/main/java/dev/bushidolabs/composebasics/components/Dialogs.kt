@@ -1,4 +1,4 @@
-package dev.bushidolabs.composebasics
+package dev.bushidolabs.composebasics.components
 
 import android.util.Log
 import androidx.compose.foundation.layout.Box
